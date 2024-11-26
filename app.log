@@ -1,0 +1,36 @@
+2024-11-26 00:22:42,074 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:22:45,787 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:22:50,628 - INFO - Home page accessed.
+2024-11-26 00:23:37,050 - INFO - Home page accessed.
+2024-11-26 00:30:39,563 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:30:41,083 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:30:44,180 - INFO - Home page accessed.
+2024-11-26 00:30:51,199 - INFO - Received input data: [15.0, 215.0]
+2024-11-26 00:30:51,202 - ERROR - Error during prediction: X has 2 features, but StandardScaler is expecting 7 features as input.
+2024-11-26 00:45:35,794 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:45:37,598 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:45:39,315 - INFO - Home page accessed.
+2024-11-26 00:48:06,037 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:48:07,752 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 00:48:09,153 - INFO - Home page accessed.
+2024-11-26 00:48:53,666 - INFO - Received input data: [11.43, 13.13, 0.835, 5.176, 2.73, 2.79, 5.0]
+2024-11-26 00:48:53,677 - DEBUG - Scaled data: [[-1.19996545 -1.11469082 -1.62844124 -1.0363975  -1.43538571 -0.5900625
+  -0.83805295]]
+2024-11-26 00:48:53,678 - INFO - Raw prediction: [3]
+2024-11-26 00:48:53,678 - INFO - Final prediction result: Canadian
+2024-11-26 00:48:58,977 - INFO - Home page accessed.
+2024-11-26 12:42:39,262 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 12:42:40,483 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 12:42:44,166 - INFO - Home page accessed.
+2024-11-26 12:44:53,480 - INFO - Received input data: [15.26, 14.84, 0.871, 5.763, 3.312, 2.221, 5.22]
+2024-11-26 12:44:53,536 - DEBUG - Scaled data: [[ 0.11916993  0.19428301 -0.03303231  0.28505681  0.11767377 -0.9857699
+  -0.39299398]]
+2024-11-26 12:44:53,545 - INFO - Raw prediction: [1]
+2024-11-26 12:44:53,545 - INFO - Final prediction result: Rosa
+2024-11-26 12:44:56,790 - INFO - SVM model and scaler loaded successfully.
+2024-11-26 12:45:14,180 - INFO - Received input data: [15.26, 14.84, 0.871, 5.763, 3.312, 2.221, 5.22]
+2024-11-26 12:45:14,184 - DEBUG - Scaled data: [[ 0.11916993  0.19428301 -0.03303231  0.28505681  0.11767377 -0.9857699
+  -0.39299398]]
+2024-11-26 12:45:14,187 - INFO - Raw prediction: [1]
+2024-11-26 12:45:14,187 - INFO - Final prediction result: Rosa
+2024-11-26 21:14:23,037 - INFO - SVM model and scaler loaded successfully.

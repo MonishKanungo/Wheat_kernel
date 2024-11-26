@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheat Kernel Classification</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            margin-top: 50px;
+            padding: 30px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Wheat Kernel Classification</h1>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="area">Area:</label>
+                <input type="number" class="form-control" id="area" name="area" step="any" required>
+            </div>
+            <div class="form-group">
+                <label for="perimeter">Perimeter:</label>
+                <input type="number" class="form-control" id="perimeter" name="perimeter" step="any" required>
+            </div>
+            <div class="form-group">
+                <label for="compactness">Compactness:</label>
+                <input type="number" class="form-control" id="compactness" name="compactness" step="any" required>
+            </div>
+            <div class="form-group">
+                <label for="length_of_kernel">Length of Kernel:</label>
+                <input type="number" class="form-control" id="length_of_kernel" name="length_of_kernel" step="any" required>
+            </div>
+            <div class="form-group">
+                <label for="width_of_kernel">Width of Kernel:</label>
+                <input type="number" class="form-control" id="width_of_kernel" name="width_of_kernel" step="any" required>
+            </div>
+            <div class="form-group">
+                <label for="asymmetry_coeffecient">Asymmetry Coefficient:</label>
+                <input type="number" class="form-control" id="asymmetry_coeffecient" name="asymmetry_coeffecient" step="any" required>
+            </div>
+            <div class="form-group">
+                <label for="length_of_kernel_groove">Length of Kernel Groove:</label>
+                <input type="number" class="form-control" id="length_of_kernel_groove" name="length_of_kernel_groove" step="any" required>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
