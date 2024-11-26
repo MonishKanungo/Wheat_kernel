@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template
 import pickle
 import numpy as np
+import os
 import logging
 
 # Initialize the Flask app
@@ -65,4 +66,6 @@ def predict():
 
 # Run the Flask app
 if __name__ == "__main__":
-    app.run(debug=True)
+    # Bind to 0.0.0.0 and use PORT from the environment, with a fallback to 5000
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=True)
