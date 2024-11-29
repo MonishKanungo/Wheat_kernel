@@ -34,3 +34,122 @@
 2024-11-26 12:45:14,187 - INFO - Raw prediction: [1]
 2024-11-26 12:45:14,187 - INFO - Final prediction result: Rosa
 2024-11-26 21:14:23,037 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:48:08,760 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:48:10,093 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:53:44,625 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:53:53,934 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:53:57,273 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:54:01,050 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:54:04,237 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:54:07,893 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:54:38,110 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:55:18,639 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:57:54,805 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:59:01,094 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 11:59:15,302 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:01:15,153 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:02:26,464 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:38:10,751 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:38:12,451 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:38:26,335 - INFO - Home page accessed.
+2024-11-27 12:38:44,526 - INFO - Received input data: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2024-11-27 12:38:44,584 - DEBUG - Scaled data: [[ -5.13670629 -11.16546651 -38.63306484 -12.68860786  -8.72035542
+   -2.53035008 -10.95302956]]
+2024-11-27 12:38:44,633 - INFO - Raw prediction: [1]
+2024-11-27 12:38:44,634 - INFO - Final prediction result: Rosa
+2024-11-27 12:38:46,862 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:38:46,935 - INFO - Home page accessed.
+2024-11-27 12:39:25,572 - INFO - Received input data: [11.49, 5.89, 6.3, 0.56, 0.89, 3.56, 2.0]
+2024-11-27 12:39:25,579 - DEBUG - Scaled data: [[-1.17930014e+00 -6.65677886e+00  2.40563496e+02 -1.14279360e+01
+  -6.34540192e+00 -5.45709486e-02 -6.90703891e+00]]
+2024-11-27 12:39:25,584 - INFO - Raw prediction: [1]
+2024-11-27 12:39:25,584 - INFO - Final prediction result: Rosa
+2024-11-27 12:39:29,617 - INFO - Home page accessed.
+2024-11-27 12:42:36,323 - INFO - Received input data: [15.26, 14.84, 0.87, 5.763, 3.321, 2.21, 5.51]
+2024-11-27 12:42:36,355 - DEBUG - Scaled data: [[ 0.11916993  0.19428301 -0.07734923  0.28505681  0.14169016 -0.99341978
+   0.19367466]]
+2024-11-27 12:42:36,372 - INFO - Raw prediction: [1]
+2024-11-27 12:42:36,376 - INFO - Final prediction result: Rosa
+2024-11-27 12:42:39,024 - INFO - Home page accessed.
+2024-11-27 12:43:22,434 - INFO - Received input data: [11.24, 13.0, 0.83, 5.09, 2.751, 3.5, 5.088]
+2024-11-27 12:43:22,435 - DEBUG - Scaled data: [[-1.26540559 -1.21420345 -1.85002581 -1.23000068 -1.37934748 -0.09629756
+  -0.66002936]]
+2024-11-27 12:43:22,450 - INFO - Raw prediction: [3]
+2024-11-27 12:43:22,451 - INFO - Final prediction result: Canadian
+2024-11-27 12:44:09,537 - INFO - Home page accessed.
+2024-11-27 12:46:20,079 - INFO - Received input data: [17.63, 15.98, 0.8, 6.191, 3.55, 4.07, 6.06]
+2024-11-27 12:46:20,095 - DEBUG - Scaled data: [[ 0.93544953  1.06693223 -3.17953324  1.24857034  0.7527737   0.30010528
+   1.30632209]]
+2024-11-27 12:46:20,121 - INFO - Raw prediction: [2]
+2024-11-27 12:46:20,124 - INFO - Final prediction result: Canadian
+2024-11-27 12:46:22,982 - INFO - Home page accessed.
+2024-11-27 12:47:50,822 - INFO - Received input data: [20.0, 15.0, 0.99, 6.89, 3.59, 5.19, 6.89]
+2024-11-27 12:47:51,009 - DEBUG - Scaled data: [[1.75172913 0.31676009 5.24068051 2.82215902 0.85951318 1.07900208
+  2.98540821]]
+2024-11-27 12:47:51,092 - INFO - Raw prediction: [1]
+2024-11-27 12:47:51,096 - INFO - Final prediction result: Rosa
+2024-11-27 12:47:53,855 - INFO - Home page accessed.
+2024-11-27 12:48:04,333 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 12:54:12,986 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:24:12,441 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:24:15,220 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:24:17,896 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:24:20,563 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:24:25,468 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:24:51,152 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:30:54,871 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:31:44,975 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:33:01,276 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:40:48,481 - INFO - Received input data: [20.25, 16.89, 0.889, 6.285, 3.864, 5.173, 6.187]
+2024-11-27 13:40:48,546 - DEBUG - Scaled data: [[1.83783457 1.76352064 0.76467215 1.46018312 1.59067864 1.06717954
+  1.5632425 ]]
+2024-11-27 13:40:48,560 - INFO - Raw prediction: [2]
+2024-11-27 13:40:48,561 - INFO - Final prediction result: Canadian
+2024-11-27 13:40:54,437 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:41:02,989 - INFO - Home page accessed.
+2024-11-27 13:42:07,821 - INFO - Received input data: [12.05, 13.41, 0.8416, 5.261, 2.84, 4.988, 5.146]
+2024-11-27 13:42:07,887 - DEBUG - Scaled data: [[-0.98642395 -0.90035593 -1.3359496  -0.84504551 -1.14185213  0.93852248
+  -0.54269563]]
+2024-11-27 13:42:07,905 - INFO - Raw prediction: [3]
+2024-11-27 13:42:07,921 - INFO - Final prediction result: Canadian
+2024-11-27 13:44:05,527 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:44:42,631 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:44:43,966 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:44:54,742 - INFO - Home page accessed.
+2024-11-27 13:46:10,918 - INFO - Received input data: [12.05, 13.41, 0.841, 5.26, 2.847, 4.988, 5.046]
+2024-11-27 13:46:10,930 - DEBUG - Scaled data: [[-0.98642395 -0.90035593 -1.36253975 -0.84729671 -1.12317272  0.93852248
+  -0.74499516]]
+2024-11-27 13:46:10,936 - INFO - Raw prediction: [3]
+2024-11-27 13:46:10,940 - INFO - Final prediction result: Canadian
+2024-11-27 13:46:30,000 - INFO - Home page accessed.
+2024-11-27 13:47:29,704 - INFO - Received input data: [18.96, 16.2, 0.9077, 6.051, 3.897, 4.334, 5.75]
+2024-11-27 13:47:29,712 - DEBUG - Scaled data: [[1.39353049 1.23533822 1.59339845 0.93340236 1.67873871 0.48370238
+  0.67919354]]
+2024-11-27 13:47:29,724 - INFO - Raw prediction: [2]
+2024-11-27 13:47:29,724 - INFO - Final prediction result: Canadian
+2024-11-27 13:48:34,392 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:49:00,519 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:49:03,227 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:49:19,428 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:49:22,074 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:49:46,356 - INFO - Received input data: [18.96, 16.2, 0.9077, 6.051, 3.897, 4.334, 5.75]
+2024-11-27 13:49:46,359 - DEBUG - Scaled data: [[1.39353049 1.23533822 1.59339845 0.93340236 1.67873871 0.48370238
+  0.67919354]]
+2024-11-27 13:49:46,360 - INFO - Raw prediction: [2]
+2024-11-27 13:49:46,360 - INFO - Final prediction result: Canadian
+2024-11-27 13:50:23,067 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:50:39,508 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:50:40,854 - INFO - SVM model and scaler loaded successfully.
+2024-11-27 13:50:48,311 - INFO - Home page accessed.
+2024-11-27 13:51:20,962 - INFO - Received input data: [15.99, 14.89, 0.9, 5.9, 3.71, 2.98, 5.905]
+2024-11-27 13:51:20,981 - DEBUG - Scaled data: [[ 0.37059783  0.2325571   1.25215821  0.59347118  1.17973163 -0.45792822
+   0.99275782]]
+2024-11-27 13:51:20,991 - INFO - Raw prediction: [1]
+2024-11-27 13:51:20,993 - INFO - Final prediction result: Rosa
+2024-11-27 13:51:49,720 - INFO - Home page accessed.
+2024-11-27 13:52:15,709 - INFO - Received input data: [14.28, 14.17, 0.894, 5.39, 3.29, 6.6, 5.011]
+2024-11-27 13:52:15,715 - DEBUG - Scaled data: [[-0.2183634  -0.31858978  0.98625672 -0.55464073  0.05896706  2.05957752
+  -0.8158    ]]
+2024-11-27 13:52:15,720 - INFO - Raw prediction: [0]
+2024-11-27 13:52:15,725 - INFO - Final prediction result: Kama
+2024-11-27 13:54:21,217 - INFO - SVM model and scaler loaded successfully.
