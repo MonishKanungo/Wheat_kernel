@@ -153,3 +153,42 @@
 2024-11-27 13:52:15,720 - INFO - Raw prediction: [0]
 2024-11-27 13:52:15,725 - INFO - Final prediction result: Kama
 2024-11-27 13:54:21,217 - INFO - SVM model and scaler loaded successfully.
+2024-11-29 11:26:36,737 - INFO - SVM model and scaler loaded successfully.
+2024-11-29 11:26:37,971 - INFO - SVM model and scaler loaded successfully.
+2024-11-29 11:26:49,880 - INFO - Home page accessed.
+2024-11-29 11:27:47,179 - INFO - Received input data: [19.0, 18.0, 0.63, 6.0, 3.0, 9.0, 6.0]
+2024-11-29 11:27:47,207 - DEBUG - Scaled data: [[  1.40730736   2.61320541 -10.71340871   0.81859117  -0.7148942
+    3.72864211   1.18494237]]
+2024-11-29 11:27:47,223 - INFO - Raw prediction: [1]
+2024-11-29 11:27:47,223 - INFO - Final prediction result: Rosa
+2024-11-29 11:27:50,032 - INFO - SVM model and scaler loaded successfully.
+2024-11-29 11:27:58,290 - INFO - Received input data: [19.0, 18.0, 0.63, 6.0, 3.0, 9.0, 6.0]
+2024-11-29 11:27:58,295 - DEBUG - Scaled data: [[  1.40730736   2.61320541 -10.71340871   0.81859117  -0.7148942
+    3.72864211   1.18494237]]
+2024-11-29 11:27:58,297 - INFO - Raw prediction: [1]
+2024-11-29 11:27:58,299 - INFO - Final prediction result: Rosa
+2024-11-29 11:28:01,832 - INFO - Home page accessed.
+2024-11-29 11:28:20,416 - INFO - Received input data: [22.0, 20.0, 0.9, 7.0, 4.0, 10.0, 8.0]
+2024-11-29 11:28:20,419 - DEBUG - Scaled data: [[2.44057267 4.14416896 1.25215821 3.06979101 1.95359288 4.42408569
+  5.23093301]]
+2024-11-29 11:28:20,731 - INFO - Raw prediction: [1]
+2024-11-29 11:28:20,731 - INFO - Final prediction result: Rosa
+2024-11-29 11:28:22,129 - INFO - Home page accessed.
+2024-11-29 11:28:46,624 - INFO - Received input data: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2024-11-29 11:28:46,626 - DEBUG - Scaled data: [[ -5.13670629 -11.16546651 -38.63306484 -12.68860786  -8.72035542
+   -2.53035008 -10.95302956]]
+2024-11-29 11:28:46,629 - INFO - Raw prediction: [0]
+2024-11-29 11:28:46,630 - INFO - Final prediction result: Kama
+2024-11-29 11:32:53,085 - INFO - Home page accessed.
+2024-11-29 11:33:45,719 - INFO - Received input data: [15.0, 9.0, 0.6, 6.0, 3.0, 8.0, 6.0]
+2024-11-29 11:33:45,722 - DEBUG - Scaled data: [[  0.02962027  -4.27613055 -12.04291614   0.81859117  -0.7148942
+    3.03319853   1.18494237]]
+2024-11-29 11:33:45,726 - INFO - Raw prediction: [1]
+2024-11-29 11:33:45,727 - INFO - Final prediction result: Rosa
+2024-11-29 11:33:47,300 - INFO - Home page accessed.
+2024-11-29 11:34:08,833 - INFO - Received input data: [22.0, 20.0, 0.9, 6.0, 4.0, 9.0, 7.0]
+2024-11-29 11:34:08,835 - DEBUG - Scaled data: [[2.44057267 4.14416896 1.25215821 0.81859117 1.95359288 3.72864211
+  3.20793769]]
+2024-11-29 11:34:08,838 - INFO - Raw prediction: [1]
+2024-11-29 11:34:08,839 - INFO - Final prediction result: Rosa
+2024-11-29 11:34:10,553 - INFO - Home page accessed.
